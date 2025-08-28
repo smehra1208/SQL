@@ -1,2 +1,3 @@
 # SQL
-First repository
+First repository for my Data Analytics portfolio
+Author: Sakshi
